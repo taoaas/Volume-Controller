@@ -7,19 +7,19 @@
 ## English
 
 ### Overview
-**Volume Controller** is a Chrome extension that allows you to control and remember the volume for each website individually. Once you set the volume for a site, it will be automatically applied every time you visit that site again.
+**Volume Controller** is a high-performance Chrome extension that provides stable volume management for every open tab. Using the Tab Capture API, it successfully bypasses site-specific limitations (like YouTube's automatic volume resets) to give you total control over your audio experience.
 
 ### Features
-- **Per-Site Memory**: Remembers your volume settings for each domain (e.g., YouTube, Twitter, Twitch).
-- **All Tabs Management**: View and adjust the volume of all open web tabs from a single popup.
-- **Persistent Control**: Prevents websites (like YouTube) from overriding your set volume.
-- **Multilingual Support**: Available in 10 languages.
+- **Total Dominance**: Works flawlessly on any website, including YouTube, YouTube Music, and Spotify, where other extensions often fail.
+- **Privacy First**: Designed to be transient and lightweight. No volume settings are stored in your browser; everything resets when you close the tab.
+- **Tab Management**: View and adjust volumes for all active web tabs from a single, clean popup.
+- **Multilingual**: Fully localized in 10 major languages.
 
 ### Installation (Manual)
-1. Download the `volume-controller.zip` from the [Latest Release]().
-2. Unzip the file to a folder.
-3. Open Chrome and go to `chrome://extensions/`.
-4. Turn on **Developer mode** (top right).
+1. Download `volume-controller.zip` from the [Latest Release]().
+2. Unzip the file to a folder on your computer.
+3. Open Chrome and navigate to `chrome://extensions/`.
+4. Enable **Developer mode** (toggle in the top right).
 5. Click **Load unpacked** and select the folder you unzipped.
 
 ---
@@ -27,17 +27,17 @@
 ## 日本語
 
 ### 概要
-**Volume Controller** は、ウェブサイトごとに個別に音量を設定・記憶できるChrome拡張機能です。一度サイトの音量を設定すると、次回そのサイトを訪れた際にも自動的に同じ音量が適用されます。
+**Volume Controller** は、すべてのタブに対して安定した音量管理を提供する高性能なChrome拡張機能です。Tab Capture APIを採用することで、YouTube等のサイト側が音量を自動的にリセットしようとする動きを完全に無効化し、ユーザーに100%の音量コントロール権限を提供します。
 
 ### 特徴
-- **サイト別記憶機能**: ドメイン（YouTube、Twitter、Twitchなど）ごとに音量設定を保存します。
-- **全タブ一括管理**: ポップアップから、現在開いているすべてのウェブタブの音量を一覧・調整できます。
-- **強力な固定機能**: YouTubeなどのプレイヤーが音量を勝手に書き換えるのを防ぎ、設定した音量を維持します。
-- **多言語対応**: 日本語、英語を含む10ヵ国語に対応しています。
+- **完全な支配**: YouTube、YouTube Music、Spotifyなど、他の拡張機能が効かなくなることが多いサイトでも完璧に動作します。
+- **プライバシー重視**: 軽量かつクリーンな設計です。音量設定はブラウザに保存されず、タブを閉じると自動的にリセットされます。
+- **一括管理**: 開いているすべてのウェブタブの音量を、一つのポップアップから直感的に調整できます。
+- **多言語対応**: 日本語、英語を含む主要10言語に完全対応しています。
 
 ### インストール方法（手動）
 1. [最新のリリース]() から `volume-controller.zip` をダウンロードします。
-2. ファイルをフォルダに解凍します。
-3. Chromeを開き、 `chrome://extensions/` に移動します。
+2. ファイルを任意のフォルダに解凍します。
+3. Chromeを開き、アドレスバーに `chrome://extensions/` と入力して移動します。
 4. 右上の **デベロッパー モード** をオンにします。
 5. **パッケージ化されていない拡張機能を読み込む** をクリックし、解凍したフォルダを選択します。
