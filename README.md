@@ -1,6 +1,6 @@
 # Volume Controller
 
-[English](#english) | [日本語](#日本語) | [Deutsch](#deutsch) | [Español](#español) | [Français](#français) | [Italiano](#italiano) | [한국어](#한국어) | [Português](#português) | [简体中文](#简体中文) | [繁體中文](#繁體中文)
+[English](#english) | [日本語](#日本語) | [Deutsch](#deutsch) | [Español](#español) | [Français](#français) | [Italiano](#italiano) | [한국어](#한국어) | [简体中文](#简体中文) | [繁體中文](#繁體中文)
 
 ---
 
@@ -13,7 +13,7 @@
 - **Total Dominance**: Works flawlessly on any website, including YouTube and Spotify.
 - **Privacy First**: No volume settings are stored; everything resets when you close the tab.
 - **Tab Management**: View and adjust volumes for all active tabs from a single popup.
-- **Multilingual Support**: Fully localized in 10 major languages (English, Japanese, German, Spanish, French, Italian, Korean, Portuguese, Simplified Chinese, Traditional Chinese).
+- **Multilingual Support**: Fully localized in 9 major languages (English, Japanese, German, Spanish, French, Italian, Korean, Simplified Chinese, Traditional Chinese).
 
 ### 🚀 Installation
 
@@ -40,7 +40,7 @@
 - **完全な支配**: YouTubeやSpotifyなど、他の拡張機能が効かなくなるサイトでも完璧に動作します。
 - **プライバシー重視**: 音量設定はブラウザに保存されず、タブを閉じると自動的にリセットされます。
 - **一括管理**: 開いているすべてのウェブタブの音量を、一つのポップアップから直感的に調整できます。
-- **多言語対応**: 10言語（英語、日本語、イタリア語、スペイン語、ドイツ語、フランス語、韓国語、ポルトガル語、中国語（繁体字）、中国語（簡体字））に対応しています。
+- **多言語対応**: 9言語（英語、日本語、イタリア語、スペイン語、ドイツ語、フランス語、韓国語、中国語（繁体字）、中国語（簡体字））に対応しています。
 
 ### 🚀 インストール方法
 
@@ -66,7 +66,7 @@
 ### Funktionen
 - **Volle Kontrolle**: Funktioniert einwandfrei auf jeder Website, einschließlich YouTube und Spotify.
 - **Datenschutz**: Keine Einstellungen werden gespeichert; alles wird beim Schließen des Tabs zurückgesetzt.
-- **Mehrsprachige Unterstützung**: Vollständig lokalisiert in 10 Hauptsprachen (Englisch, Japanisch, Deutsch, Spanisch, Französisch, Italienisch, Koreanisch, Portugiesisch, Vereinfachtes Chinesisch, Traditionelles Chinesisch).
+- **Mehrsprachige Unterstützung**: Vollständig lokalisiert in 9 Hauptsprachen (Englisch, Japanisch, Deutsch, Spanisch, Französisch, Italienisch, Koreanisch, Vereinfachtes Chinesisch, Traditionelles Chinesisch).
 
 ### 🚀 Installation
 
@@ -89,7 +89,7 @@
 ### Características
 - **Dominio Total**: Funciona perfectamente en cualquier sitio, incluidos YouTube y Spotify.
 - **Privacidad**: No se guarda ninguna configuración; todo se reinicia al cerrar la pestaña.
-- **Soporte Multilingüe**: Totalmente localizado en 10 idiomas principales (inglés, japonés, alemán, español, francés, italiano, coreano, portugués, chino simplificado, chino tradicional).
+- **Soporte Multilingüe**: Totalmente localizado en 9 idiomas principales (inglés, japonés, alemán, español, francés, italiano, coreano, chino simplificado, chino tradicional).
 
 ### 🚀 Instalación
 
@@ -112,7 +112,7 @@
 ### Caractéristiques
 - **Contrôle Total**: Fonctionne parfaitement sur tous les sites, y compris YouTube et Spotify.
 - **Confidentialité**: Aucun réglage n'est stocké ; tout se réinitialise à la fermeture de l'onglet.
-- **Support Multilingue**: Entièrement localisé en 10 langues majeures (anglais, japonais, allemand, espagnol, français, italien, coréen, portugais, chinois simplifié, chinois traditionnel).
+- **Support Multilingue**: Entièrement localisé en 9 langues majeures (anglais, japonais, allemand, espagnol, français, italien, coréen, chinois simplifié, chinois traditionnel).
 
 ### 🚀 Installation
 
@@ -121,7 +121,7 @@
 2. Cliquez sur **Ajouter à Chrome**.
 
 #### Installation Manuelle
-1. Téléchargez et décompressez `volume-controller.zip`.
+1. Téléchargez et décompressez `volume-controller.French`.
 2. Allez sur `chrome://extensions/` et activez le **Mode développeur**.
 3. Cliquez sur **Charger l'extension décompressée**.
 
@@ -135,7 +135,7 @@
 ### Caratteristiche
 - **Dominio Totale**: Funziona perfettamente su qualsiasi sito, inclusi YouTube e Spotify.
 - **Privacy**: Nessuna impostazione viene memorizzata; tutto si resetta alla chiusura della scheda.
-- **Supporto Multilingue**: Completamente localizzato in 10 lingue principali (inglese, giapponese, tedesco, spagnolo, francese, italiano, coreano, portoghese, cinese semplificato, cinese tradizionale).
+- **Supporto Multilingue**: Completamente localizzato in 9 lingue principali (inglese, giapponese, tedesco, spagnolo, francese, italiano, coréano, cinese semplificato, cinese tradizionale).
 
 ### 🚀 Installazione
 
@@ -158,7 +158,7 @@
 ### 주요 기능
 - **완벽한 제어**: 유튜브, 스포티파이 등 모든 웹사이트에서 완벽하게 작동합니다.
 - **개인정보 보호**: 설정을 저장하지 않으며, 탭을 닫으면 모든 것이 초기화됩니다.
-- **다국어 지원**: 10개의 주요 언어(영어, 일본어, 독일어, 스페인어, 프랑스어, 이탈リア어, 한국어, 포르투갈어, 중국어 간체, 중국어 번체)로 완벽하게 번역되었습니다.
+- **다국어 지원**: 9개의 주요 언어(영어, 일본어, 독일어, 스페인어, 프랑스어, 이탈리아어, 한국어, 중국어 간체, 중국어 번체)로 완벽하게 번역되었습니다.
 
 ### 🚀 설치 방법
 
@@ -173,29 +173,6 @@
 
 ---
 
-## Português
-
-### Visão Geral
-**Volume Controller** é uma extensão de alto desempenho para o Chrome que oferece gestão de volume estável para cada separador. Utiliza a API Tab Capture para contornar limitações de sites.
-
-### Funcionalidades
-- **Domínio Total**: Funciona perfeitamente em qualquer site, incluindo YouTube e Spotify.
-- **Privacidade**: Não guarda definições; tudo é reposto ao fechar o separador.
-- **Suporte Multilingue**: Totalmente localizado em 10 idiomas principais (inglês, japonês, alemão, espanhol, francês, italiano, coreano, português, chinês simplificado, chinês tradicional).
-
-### 🚀 Instalação
-
-#### Pela Chrome Web Store
-1. Visite a [Chrome Web Store](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID_HERE).
-2. Clique em **Usar no Chrome**.
-
-#### Instalação Manual
-1. Descarregue e descompacte o `volume-controller.zip`.
-2. Vá a `chrome://extensions/` e ative o **Modo de programador**.
-3. Clique em **Carregar expandida**.
-
----
-
 ## 简体中文
 
 ### 概览
@@ -204,7 +181,7 @@
 ### 功能
 - **全面掌控**: 在任何网站上都能完美运行，包括 YouTube 和 Spotify。
 - **隐私第一**: 不存储任何音量设置；关闭标签页时一切都会重置。
-- **多语言支持**: 完全支持 10 种主要语言（英语、日语、德语、西班牙语、法语、意大利语、韩语、葡萄牙语、简体中文、繁體中文）。
+- **多语言支持**: 完全支持 9 种主要语言（英语、日语、德语、西班牙语、法语、意大利语、韩语、简体中文、繁體中文）。
 
 ### 🚀 安装方法
 
@@ -227,7 +204,7 @@
 ### 功能
 - **全面掌控**: 在任何網站上都能完美運行，包括 YouTube 和 Spotify。
 - **隱私第一**: 不存儲任何音量設置；關閉分頁時一切都會重置。
-- **多語言支持**: 完全支持 10 種主要語言（英語、日語、德語、西班牙語、法語、意大利語、韓語、葡萄牙語、簡體中文、繁體中文）。
+- **多語言支持**: 完全支持 9 種主要語言（英語、日語、德語、西班牙語、法語、意大利語、韓語、簡體中文、繁體中文）。
 
 ### 🚀 安裝方法
 
