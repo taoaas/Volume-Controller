@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "Controlla il volume individualmente per ogni sito web" },
+  "tabCurrent": { "message": "Scheda corrente" },
+  "tabAll": { "message": "Tutte le schede" },
+  "unavailable": { "message": "Non disponibile" },
+  "noTabsMsg": { "message": "Nessuna scheda web aperta." }
+}

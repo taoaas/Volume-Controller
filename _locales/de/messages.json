@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "Reguliert die Lautstärke individuell für jede Website" },
+  "tabCurrent": { "message": "Aktueller Tab" },
+  "tabAll": { "message": "Alle Tabs" },
+  "unavailable": { "message": "Nicht verfügbar" },
+  "noTabsMsg": { "message": "Keine Web-Tabs geöffnet." }
+}

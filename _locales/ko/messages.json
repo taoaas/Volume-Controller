@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "각 웹사이트의 볼륨을 개別적으로 제어합니다" },
+  "tabCurrent": { "message": "현재 탭" },
+  "tabAll": { "message": "모든 탭" },
+  "unavailable": { "message": "사용 불가" },
+  "noTabsMsg": { "message": "열려 있는 웹 탭이 없습니다." }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "單獨控制每個網站的音量" },
+  "tabCurrent": { "message": "目前分頁" },
+  "tabAll": { "message": "所有分頁" },
+  "unavailable": { "message": "不可用" },
+  "noTabsMsg": { "message": "沒有開啟的網頁分頁。" }
+}

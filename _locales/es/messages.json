@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "Controla el volumen de cada sitio web individualmente" },
+  "tabCurrent": { "message": "Pestaña actual" },
+  "tabAll": { "message": "Todas las pestañas" },
+  "unavailable": { "message": "No disponible" },
+  "noTabsMsg": { "message": "No hay pestañas web abiertas." }
+}

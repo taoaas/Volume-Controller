@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "Contrôlez le volume individuellement pour chaque site web" },
+  "tabCurrent": { "message": "Onglet actuel" },
+  "tabAll": { "message": "Tous les onglets" },
+  "unavailable": { "message": "Indisponible" },
+  "noTabsMsg": { "message": "Aucun onglet web ouvert." }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "Control volume individually for each website" },
+  "tabCurrent": { "message": "Current Tab" },
+  "tabAll": { "message": "All Tabs" },
+  "unavailable": { "message": "Unavailable" },
+  "noTabsMsg": { "message": "No web tabs open." }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "サイトごとに個別に音量を調整します" },
+  "tabCurrent": { "message": "現在のタブ" },
+  "tabAll": { "message": "すべてのタブ" },
+  "unavailable": { "message": "利用不可" },
+  "noTabsMsg": { "message": "開いているウェブタブはありません。" }
+}

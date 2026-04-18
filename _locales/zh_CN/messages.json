@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Volume Controller" },
+  "extensionDescription": { "message": "单独控制每个网站的音量" },
+  "tabCurrent": { "message": "当前标签页" },
+  "tabAll": { "message": "所有标签页" },
+  "unavailable": { "message": "不可用" },
+  "noTabsMsg": { "message": "没有打开的网页标签。" }
+}
